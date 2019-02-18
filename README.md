@@ -17,7 +17,7 @@ npm run dev
 
 # 打包 build for production with minification
 npm run build
-
+```
 ## 商品页面
 ![商品页面](https://github.com/pmm0316/vue-sell/blob/master/src/images/1.PNG)
 
